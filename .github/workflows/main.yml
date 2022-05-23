@@ -22,4 +22,4 @@ jobs:
           SHOW_PROJECTS: "True"
           SHOW_LANGUAGE_PER_REPO: "True"
           SYMBOL_VERSION: 1
-          UPDATED_DATE_FORMAT: "%mmmm %d, %Y at %H:%M:%S"
+          UPDATED_DATE_FORMAT: "%B %d, %Y at %H:%M:%S"
